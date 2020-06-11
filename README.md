@@ -6,6 +6,6 @@ networks ResNet50 and ResNet18.
 
 We used cDNNs ResNet50 and ResNet18 with the following parameters and options: 1. Optimizer (optimization algorithm used for faster training and better performance of neural networks): SGDM (Stochastic Gradient Descent with Momentum; Qian, 1999) or ADAM (Adaptive Moment Estimation; Kingma & Ba, 2014); 2. Number of epochs = 8; 3. Learning rate: 0.0001; 4. Batch size: 10.
 
-The model was run in Matlab R2018b.
+The model was run in Matlab R2020.
 
 Images are available upon request.
